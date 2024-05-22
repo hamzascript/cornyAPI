@@ -26,6 +26,7 @@ make sure the structure is like this!
 ]
 ```
 If your jokes do not need a question, simply remove the question section!
+Create a pull request with your changes, and if i approve (which i most likely will) then congrats!!
 thank you :)
 
 # Story
