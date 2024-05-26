@@ -4,6 +4,10 @@ corny.lol is a website made for joke APIs, meme APIs, etc.
 # Requirements
 - NodeJS
 - NPM
+
+# API List 
+- generalJokes
+- random memes from reddit
   
 # Guide
 to being, clone the repository to your computer by running ```git clone https://github.com/hamzascript/cornyAPI```
